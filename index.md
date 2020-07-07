@@ -2,10 +2,8 @@
 layout: default
 ---
 
-# Test
+# Test.
 
 ```
 Hello world!
 ```
-
-* * *
