@@ -30,4 +30,4 @@ remotely at UC San Diego
 
 [coming soon!]
 
-[test](https://rish987.github.io/files/test/test.pdf).
+[test](https://rish987.github.io/files/rl_theory/rl_theory.pdf).
