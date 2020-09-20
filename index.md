@@ -30,10 +30,10 @@ remotely at UC San Diego
 
 [coming soon!]
 
-[test 1](https://rish987.github.io/files/archives/tree_online/archives/ref.pdf).
+[test 1](https://rish987.github.io/files/archives/tree_online/archive/tree_online.pdf).
 
-[test 2](https://rish987.github.io/files/archives/full/archives/full.pdf).
+[test 2](https://rish987.github.io/files/archives/full/archive/full.pdf).
 
-[test 3](https://rish987.github.io/files/archives/full_compact/archives/full_compact.pdf).
+[test 3](https://rish987.github.io/files/archives/full_compact/archive/full_compact.pdf).
 
-[test 4](https://rish987.github.io/files/archives/tree/archives.tar.gz).
+[test 4](https://rish987.github.io/files/archives/tree/archive.tar.gz).
