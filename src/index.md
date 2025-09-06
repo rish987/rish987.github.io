@@ -7,7 +7,7 @@ og-url: https://rish987.github.io
 location: Deducteam, LMF, ENS 
 email: rishikesh-hirendu.vaishnav@inria.fr
 picture: img/me-new.jpg
-picture-round: false
+picture-round: true
 side-by-side: true
 #pronouns: They/Them
 og-picture: https://rish987.github.io/img/me-new.jpg
