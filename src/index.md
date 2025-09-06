@@ -44,10 +44,10 @@ and expect to complete my doctoral studies in February 2026.
 I'm generally interested in the use of **proof assistants**
 for formalizing mathematics and verifying/synthesizing provably correct programs.
 My doctoral studies relate to the topic of **proof translation** between proof assistants,
-for the purpose of improved interoperability between different proof systems with different theoretical foundations.
+for the purpose of improved interoperability between proof systems with different theoretical foundations.
 
 My post-doctoral research interests are shifting
-towards the topic of **program verification** and **program synthesis**,
+towards the topics of **program verification** and **program synthesis**,
 specifically within the context of proof assistants such as Lean.
 I'm interested in designing **search spaces** and **intelligent agents** for program synthesis,
 as well as applications of program synthesis
