@@ -1,180 +1,107 @@
 ---
-title: Template homepage
-author: Templato Urnehm
-shortbio: PhD student in 👽 science
-description-meta: PhD student in 👽 science
-og-url: https://basicpage.github.io
-location: Some lab, office 777
-email: noreply@noemail.com
-picture: img/profile.png
+title: Rish Vaishnav
+author: Rishikesh Vaishnav (Rish)
+shortbio: PhD student in computer science
+description-meta: PhD student in computer science
+og-url: https://rish987.github.io
+location: Deducteam, LMF, ENS 
+email: rishikesh-hirendu.vaishnav@inria.fr
+picture: img/me-new.jpg
 picture-round: false
 side-by-side: true
-pronouns: They/Them
-og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
+#pronouns: They/Them
+og-picture: https://rish987.github.io/img/me-new.jpg
+orcid: 0009-0000-7702-6549
+#dblp: https://dblp.org/
+#scholar: https://scholar.google.com/
+hal: https://hal.science/search/index/q/*/authIdHal_i/1452865
+#mastodon: https://lipn.info
+github: rish987
+#gitlab: gitlab
+#bitbucket: bitbucket.com
+#bluesky: https://bsky.app/
+#linkedin: https://www.linkedin.com
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
   made to be easy to use! 🎓
 ---
 
-I am a (fake) PhD student, working on 👽 science on all kinds of related topics.
+Hello!
+I'm Rish, a CS PhD student at the
+  [Laboratoire Méthodes Formelles](https://lmf.cnrs.fr/) (LMF) 
+in
+  [ENS Paris-Saclay](https://ens-paris-saclay.fr/),
+on the research team
+  [Deducteam](https://deducteam.gitlabpages.inria.fr/).
+I am supervised by
+  [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
+on the design and implementation of
+a tool for translating between
+[Lean](https://lean-lang.org/) and [Dedukti](https://deducteam.github.io/),
+and expect to complete my doctoral studies in February 2026.
 
-My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
-<kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
-
+<!--
 > [!NOTE]
 > This website is obviously a fake one, but it's meant to be very easy to use.
 > Just follow the README of the
 > [Github repository](https://github.com/basicpage/basicpage.github.io).
+-->
 
 # Publications
 
 ## Conference papers
 
 ``` json {.paper}
-"title": "Towards automatic academic pages 2",
-"authors": "Templato Urnehm, U. N. Owen, Wan Morotter",
-"venue": "Principles of Awesomeness (PAW)",
+"title": "(accepted paper preprint) Lean4Less: Eliminating Definitional Equalities from Lean via an Extensional-to-Intensional Translation",
+"authors": "Rishikesh Vaishnav",
+"venue": "22nd International Colloquium on Theoretical Aspects of Computing (ICTAC)",
+"year": "2025",
+"url": "https://rish987.github.io/files/lean4less.pdf"
+```
+
+## Workshop papers
+
+``` json {.paper}
+"title": "(work in progress report) A Term-Patching Framework for Eliminating Definitional Equalities in Lean",
+"authors": "Rishikesh Vaishnav",
+"venue": "LFMTP: Logical Frameworks and Meta Languages: Theory and Practice",
 "year": "2024",
-"url": "https://basicpage.github.io"
+"url": "https://hal.science/hal-04813916v1"
 ```
+
+## Master's thesis
 
 ``` json {.paper}
-"title": "Towards automatic academic pages",
-"authors": "Templato Urnehm, U. N. Owen",
-"awards": "Automatic Award",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2023",
-"url": "https://basicpage.github.io",
-"files": [
-  { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
-  { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
-  { "text": "Formalisation", "type": "code", "src": "foo.v" }
-]
+"title": "Formalizing the Beginnings of Bayesian Probability Theory in the Lean Theorem Prover",
+"authors": "Rishikesh Vaishnav",
+"venue": "Master's Thesis, UC San Diego",
+"year": "2022",
+"url": "https://escholarship.org/uc/item/8hb1w6js"
 ```
 
-## Journal papers
-
-``` yaml {.paper}
-title: Yet another yaml parser 3
-authors: Templato Urnehm
-awards: 
-  - Yet another "Yet another" award
-  - Never-ending Work Award
-venue: Proceedings of Nihilism
-year: 2029
-url: https://basicpage.github.io
-files:
-  - text: Paper
-    type: pdf
-    scr: foo.pdf
-  - text: Bibtex
-    type: bib
-    src: foo.bib
-```
-
-``` yaml {.papers}
-papers:
-  - title: Yet another yaml parser 2
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2027
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-  - title: Yet another yaml parser
-    authors: Templato Urnehm
-    awards: Yet another "Yet another" award
-    venue: Proceedings of Nihilism
-    year: 2025
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-      - text: Some link
-        type: link
-        src: fake.link.xyz
-      - text: Repo
-        type: git
-        src: github.com
-```
-
-``` json {.paper}
-"title": "How to tame your wagon",
-"authors": "Templato Urnehm",
-"venue": "Journal of Automatic Rejection (JAR)",
-"year": "2022"
-```
-
-## Drafts
-
-``` json {.paper}
-"title": "TBD",
-"authors": "TBD",
-"awards": [
-  "Best Draft Award",
-  "Test-of-time Award for works which just never leave the draft stage"
-],
-"files": [
-  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
-  { "text": "Poem", "type": "txt", "src": "foo.txt" },
-  { "text": "My picture", "type": "img", "src": "img/profile.png" },
-  { "text": "💣", "type": "zip", "src": "foo.zip" },
-  { "text": "Slides", "type": "slides", "src": "foo.key" },
-  { "text": "Some random file", "src": "foo.rand" }
-]
-```
-
-## Talks
+<!-- ## Talks
 
 ``` json {.papers}
 {
-  "title": "Talk 1",
-  "authors": "Templato Urnehm",
-  "venue": "My room"
-},
-{
-  "title": "Secret talk",
-  "authors": "Templato Urnehm",
-  "year": "1990"
-},
-{
-  "title": "Talk 3",
-  "authors": "Templato Urnehm",
-  "venue": "Don't remember…",
-  "year": "???"
+  "title": "A talk on Lean4Less",
+  "authors": "Rishikesh Vaishnav",
+  "venue": "HIM Trimester Program: Prospect of Formal Mathematics"
+  "url": "https://www.youtube.com/watch?v=9G8DVGo9aXk"
 }
-```
+``` -->
 
 # Education
 
-- I was able to paint with my hands in kindergarten.
-- I went to high school where I studied stuff.
-- Master degree in hand painting.
+- B.S. Computer Science, UC San Diego, 2019
+- M.S. Computer Science, UC San Diego, 2022
+- (current) PhD Computer Science, ENS Paris-Saclay, projected completion in February 2025
 
-# Teaching
+<!-- # Teaching
 
 - I am teaching the TD sessions on the 👽 science course.
+-->
 
 # Community service
 
-- 32 reviews for Journal of Awesomeness.
-- 1 review for a cool conference.
-- PC member of the journal of my school.
+- Artifact Evaluation Committee, ICFP 2025.
