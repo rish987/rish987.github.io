@@ -51,7 +51,7 @@ towards the topic of **program verification** and **program synthesis**,
 specifically within the context of proof assistants such as Lean.
 I'm interested in designing **search spaces** and **intelligent agents** for program synthesis,
 as well as applications of program synthesis
-to **metaprogam/tactic synthesis**, **automated theorem proving**,
+to **metaprogram/tactic synthesis**, **automated theorem proving**,
 and the **automated discovery of mathematical objects/definitions/theorems** within proof assistants.
 I'm actively searching for post-doc positions along these lines!
 
