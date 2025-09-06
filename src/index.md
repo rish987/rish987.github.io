@@ -41,6 +41,20 @@ a tool for translating between
 [Lean](https://lean-lang.org/) and [Dedukti](https://deducteam.github.io/),
 and expect to complete my doctoral studies in February 2026.
 
+I'm generally interested in the use of **proof assistants**
+for formalizing mathematics and verifying/synthesizing provably correct programs.
+My doctoral studies relate to the topic of **proof translation** between proof assistants,
+for the purpose of improved interoperability between different proof systems with different theoretical foundations.
+
+My post-doctoral research interests are shifting
+towards the topic of **program verification** and **program synthesis**,
+specifically within the context of proof assistants such as Lean.
+I'm interested in designing **search spaces** and **intelligent agents** for program synthesis,
+as well as applications of program synthesis
+to **metaprogam/tactic synthesis**, **automated theorem proving**,
+and the **automated discovery of mathematical objects/definitions/theorems** within proof assistants.
+I'm actively searching for post-doc positions along these lines!
+
 <!--
 > [!NOTE]
 > This website is obviously a fake one, but it's meant to be very easy to use.
@@ -63,7 +77,7 @@ and expect to complete my doctoral studies in February 2026.
 ## Workshop papers
 
 ``` json {.paper}
-"title": "(work in progress report) A Term-Patching Framework for Eliminating Definitional Equalities in Lean",
+"title": "(work-in-progress report) A Term-Patching Framework for Eliminating Definitional Equalities in Lean",
 "authors": "Rishikesh Vaishnav",
 "venue": "LFMTP: Logical Frameworks and Meta Languages: Theory and Practice",
 "year": "2024",
@@ -95,7 +109,7 @@ and expect to complete my doctoral studies in February 2026.
 
 - B.S. Computer Science, UC San Diego, 2019
 - M.S. Computer Science, UC San Diego, 2022
-- (current) PhD Computer Science, ENS Paris-Saclay, projected completion in February 2025
+- (current) PhD Computer Science, ENS Paris-Saclay, projected completion in February 2026
 
 <!-- # Teaching
 
