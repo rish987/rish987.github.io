@@ -4,7 +4,7 @@ author: Rishikesh Vaishnav (Rish)
 shortbio: PhD student in computer science
 description-meta: PhD student in computer science
 og-url: https://rish987.github.io
-location: Deducteam, LMF, ENS 
+location: Deducteam, LMF, ENS Paris-Saclay
 email: rishikesh-hirendu.vaishnav@inria.fr
 picture: img/me-new.jpg
 picture-round: true
@@ -32,27 +32,30 @@ I'm Rish, a CS PhD student at the
   [Laboratoire Méthodes Formelles](https://lmf.cnrs.fr/) (LMF) 
 in
   [ENS Paris-Saclay](https://ens-paris-saclay.fr/),
-on the research team
-  [Deducteam](https://deducteam.gitlabpages.inria.fr/).
+part of the 
+  [Deducteam](https://deducteam.gitlabpages.inria.fr/)
+research group.
 I am supervised by
   [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 on the design and implementation of
 a tool for translating between
 [Lean](https://lean-lang.org/) and [Dedukti](https://deducteam.github.io/),
-and expect to complete my doctoral studies in February 2026.
+and I expect to complete my doctoral studies in February 2026.
 
 I'm generally interested in the use of **proof assistants**
 for formalizing mathematics and verifying/synthesizing provably correct programs.
 My doctoral studies relate to the topic of **proof translation** between proof assistants,
-for the purpose of improved interoperability between proof systems with different theoretical foundations.
+for improved interoperability between proof systems with different theoretical foundations.
 
-My post-doctoral research interests are shifting
-towards the topics of **program verification** and **program synthesis**,
+My post-doctoral research interests are
+around the areas of **program verification** and **program synthesis**,
 specifically within the context of proof assistants such as Lean.
 I'm interested in designing **search spaces** and **intelligent agents** for program synthesis,
-as well as applications of program synthesis
-to **metaprogram/tactic synthesis**, **automated theorem proving**,
-and the **automated discovery of mathematical objects/definitions/theorems** within proof assistants.
+**program specification synthesis**, and **subroutine discovery**,
+as well as applications of program synthesis to **automated reasoning** tasks,
+in particular those of
+**metaprogram/tactic synthesis**, **automated theorem proving**,
+and the **automated discovery of mathematical theories** within proof assistants.
 I'm actively searching for post-doc positions along these lines!
 
 <!--
