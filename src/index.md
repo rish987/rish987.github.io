@@ -80,7 +80,7 @@ I'm actively searching for post-doc positions along these lines!
 ## Workshop papers
 
 ``` json {.paper}
-"title": "(work-in-progress report) A Term-Patching Framework for Eliminating Definitional Equalities in Lean",
+"title": "A Term-Patching Framework for Eliminating Definitional Equalities in Lean (work-in-progress report)",
 "authors": "Rishikesh Vaishnav",
 "venue": "LFMTP: Logical Frameworks and Meta Languages: Theory and Practice",
 "year": "2024",
