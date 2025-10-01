@@ -56,7 +56,7 @@ as well as applications of program synthesis to **automated reasoning** tasks,
 in particular those of
 **metaprogram/tactic synthesis**, **automated theorem proving**,
 and the **automated discovery of mathematical theories** within proof assistants.
-I'm actively searching for post-doc positions along these lines!
+I'm actively searching for post-doc/full-time research positions along these lines!
 
 <!--
 > [!NOTE]
