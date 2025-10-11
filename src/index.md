@@ -6,7 +6,7 @@ description-meta: PhD student in computer science
 og-url: https://rish987.github.io
 location: Deducteam, LMF, ENS Paris-Saclay
 email: rishikesh-hirendu.vaishnav@inria.fr
-picture: img/me-new.jpg
+picture: img/me.jpg
 picture-round: true
 side-by-side: true
 #pronouns: They/Them
