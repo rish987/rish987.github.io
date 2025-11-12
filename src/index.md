@@ -97,16 +97,15 @@ I'm actively searching for post-doc/full-time research positions along these lin
 "url": "https://escholarship.org/uc/item/8hb1w6js"
 ```
 
-<!-- ## Talks
+## Talks
 
 ``` json {.papers}
 {
-  "title": "A talk on Lean4Less",
+  "title": "(Upcoming) Lean4Less Talk at ICTAC 2025",
   "authors": "Rishikesh Vaishnav",
-  "venue": "HIM Trimester Program: Prospect of Formal Mathematics"
-  "url": "https://www.youtube.com/watch?v=9G8DVGo9aXk"
+  "url": "https://rish987.github.io/files/lean4less_slides.pdf"
 }
-``` -->
+```
 
 # Education
 
