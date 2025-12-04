@@ -70,11 +70,11 @@ I'm actively searching for post-doc/full-time research positions along these lin
 ## Conference papers
 
 ``` json {.paper}
-"title": "(accepted paper preprint) Lean4Less: Eliminating Definitional Equalities from Lean via an Extensional-to-Intensional Translation",
+"title": "Lean4Less: Eliminating Definitional Equalities from Lean via an Extensional-to-Intensional Translation",
 "authors": "Rishikesh Vaishnav",
 "venue": "22nd International Colloquium on Theoretical Aspects of Computing (ICTAC)",
 "year": "2025",
-"url": "https://rish987.github.io/files/lean4less.pdf"
+"url": "https://inria.hal.science/hal-05310102"
 ```
 
 ## Workshop papers
@@ -101,7 +101,7 @@ I'm actively searching for post-doc/full-time research positions along these lin
 
 ``` json {.papers}
 {
-  "title": "(Upcoming) Lean4Less Talk at ICTAC 2025",
+  "title": "Lean4Less Talk at ICTAC 2025",
   "authors": "Rishikesh Vaishnav",
   "url": "https://rish987.github.io/files/lean4less_slides.pdf"
 }
