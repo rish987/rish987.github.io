@@ -28,7 +28,7 @@ footer: >-
 ---
 
 Hello!
-I'm Rish, a CS PhD student at the
+I'm Rish, a PhD student in computer science at the
   [Laboratoire Méthodes Formelles](https://lmf.cnrs.fr/) (LMF) 
 in
   [ENS Paris-Saclay](https://ens-paris-saclay.fr/),
@@ -40,23 +40,44 @@ I am supervised by
 on the design and implementation of
 a tool for translating between
 [Lean](https://lean-lang.org/) and [Dedukti](https://deducteam.github.io/),
-and I expect to complete my doctoral studies in February 2026.
+and I expect to complete my doctoral studies in March 2026.
 
-I'm generally interested in the use of **proof assistants**
-for formalizing mathematics and verifying/synthesizing provably correct programs.
-My doctoral studies relate to the topic of **proof translation** between proof assistants,
-for improved interoperability between proof systems with different theoretical foundations.
+I’m generally interested in the use of **proof assistants**
+for mathematical formalization and synthesis,
+with my doctoral research focusing on
+the topic of **proof translation** for improved interoperability
+between proof assistants based on different foundations.
 
-My post-doctoral research interests are
-around the areas of **program verification** and **program synthesis**,
-specifically within the context of proof assistants such as Lean.
-I'm interested in designing **search spaces** and **intelligent agents** for program synthesis,
-**program specification synthesis**, and **subroutine discovery**,
-as well as applications of program synthesis to **automated reasoning** tasks,
-in particular those of
-**metaprogram/tactic synthesis**, **automated theorem proving**,
-and the **automated discovery of mathematical theories** within proof assistants.
-I'm actively searching for post-doc/full-time research positions along these lines!
+My broader research interests are around the topic of using proof assistants such as Lean
+as platforms for the **synthesis of verified structural artifacts**
+starting from domain-specific, user-provided symbolic specifications, background theories and related proof automation.
+I am particularly interested in designing proof-guided search spaces
+for specific synthesis tasks,
+focused especially on
+the topics of **program synthesis**, **program specification synthesis**, and **subroutine discovery**
+within proof assistants.
+
+I am also interested in applications of synthesis techniques to general **automated reasoning**,
+specifically in the areas of **metaprogram/tactic synthesis**, **automated theorem proving**,
+and **machine-assisted mathematical discovery**.
+
+I am actively seeking post-doctoral/full-time research positions along these lines!
+
+<!-- I'm generally interested in the use of **proof assistants** -->
+<!-- for mathematical formalization and synthesis, -->
+<!-- with my doctoral studies relating to the topic of **proof translation** between proof assistants, -->
+<!-- for improved interoperability between proof systems with different theoretical foundations. -->
+<!---->
+<!-- My post-doctoral research interests broadly encompass the use of proof assistants such as Lean -->
+<!-- for the **synthesis of verified structural artifacts** -->
+<!-- from user-provided symbolic background theories and domain-specific proof automation tactics. -->
+<!-- I'm particularly interested in designing search spaces and intelligent agents for **program synthesis**, -->
+<!-- **program specification synthesis**, and **subroutine discovery**, -->
+<!-- as well as applications of program/specification synthesis to **automated reasoning** tasks, -->
+<!-- specifically those of -->
+<!-- **metaprogram/tactic synthesis**, **automated theorem proving**, -->
+<!-- and the **automated discovery of mathematical theories** within proof assistants. -->
+<!-- I'm actively searching for post-doc/full-time research positions along these lines! -->
 
 <!--
 > [!NOTE]
