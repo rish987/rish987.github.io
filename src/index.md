@@ -88,6 +88,16 @@ I am actively seeking post-doctoral/full-time research positions along these lin
 
 # Publications
 
+## PhD thesis
+
+``` json {.paper}
+"title": "Translating Proofs from Lean to Dedukti (pre-print)",
+"authors": "Rishikesh Vaishnav",
+"venue": "PhD Thesis, ENS Paris-Saclay",
+"year": "2026",
+"url": "https://rish987.github.io/files/thesis.pdf"
+```
+
 ## Conference papers
 
 ``` json {.paper}
@@ -132,7 +142,7 @@ I am actively seeking post-doctoral/full-time research positions along these lin
 
 - B.S. Computer Science, UC San Diego, 2019
 - M.S. Computer Science, UC San Diego, 2022
-- (current) PhD Computer Science, ENS Paris-Saclay, projected completion in February 2026
+- (current) PhD Computer Science, ENS Paris-Saclay, projected completion in March 2026
 
 <!-- # Teaching
 
