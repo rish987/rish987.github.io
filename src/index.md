@@ -50,18 +50,19 @@ between proof assistants based on different foundations.
 
 My broader research interests are around the topic of using proof assistants such as Lean
 as platforms for the **synthesis of verified structural artifacts**
-starting from domain-specific, user-provided symbolic specifications, background theories and related proof automation.
-I am particularly interested in designing proof-guided search spaces
-for specific synthesis tasks,
-focused especially on
-the topics of **program synthesis**, **program specification synthesis**, and **subroutine discovery**
-within proof assistants.
+starting from domain-specific, user-provided symbolic specifications, background theories and related proof automation,
+primarily through the design of proof-guided search spaces for synthesis.
+At the moment, I am particularly thinking about possible applications of synthesis techniques in
+the areas of program synthesis and symbolic task planning for humans and autonomous robots.
 
-I am also interested in applications of synthesis techniques to general **automated reasoning**,
-specifically in the areas of **metaprogram/tactic synthesis**, **automated theorem proving**,
-and **machine-assisted mathematical discovery**.
+I am currently actively on the search for post-doctoral/full-time research positions!
+Please feel free to contact me at the email above for any related inquiries.
+<!-- the topics of **program synthesis**, **program specification synthesis**, and **subroutine discovery** -->
+<!-- within proof assistants. -->
 
-I am actively seeking post-doctoral/full-time research positions along these lines!
+<!-- I am also interested in applications of synthesis techniques to general **automated reasoning**, -->
+<!-- specifically in the areas of **metaprogram/tactic synthesis**, **automated theorem proving**, -->
+<!-- and **machine-assisted mathematical discovery**. -->
 
 <!-- I'm generally interested in the use of **proof assistants** -->
 <!-- for mathematical formalization and synthesis, -->
