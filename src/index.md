@@ -143,7 +143,7 @@ Please feel free to contact me at the email above for any related inquiries.
 
 - B.S. Computer Science, UC San Diego, 2019
 - M.S. Computer Science, UC San Diego, 2022
-- (current) PhD Computer Science, ENS Paris-Saclay, projected completion in March 2026
+- PhD Computer Science, ENS Paris-Saclay, March 2026
 
 <!-- # Teaching
 
