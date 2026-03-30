@@ -57,6 +57,7 @@ the areas of program synthesis and symbolic task planning for humans and autonom
 
 I am currently actively on the search for post-doctoral/full-time research positions!
 Please feel free to contact me at the email above for any related inquiries.
+Here's a link to [my CV](https://rish987.github.io/files/cv.pdf).
 <!-- the topics of **program synthesis**, **program specification synthesis**, and **subroutine discovery** -->
 <!-- within proof assistants. -->
 
