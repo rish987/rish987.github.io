@@ -4,7 +4,7 @@ author: Rishikesh Vaishnav (Rish)
 shortbio: PhD student in computer science
 description-meta: PhD student in computer science
 og-url: https://rish987.github.io
-location: Deducteam, LMF, ENS Paris-Saclay
+location: Bay Area, California
 email: rishikesh-hirendu.vaishnav@inria.fr
 picture: img/me.jpg
 picture-round: true
@@ -28,19 +28,19 @@ footer: >-
 ---
 
 Hello!
-I'm Rish, a PhD student in computer science at the
+I'm Rish, a former PhD student in computer science at the
   [Laboratoire Méthodes Formelles](https://lmf.cnrs.fr/) (LMF) 
 in
   [ENS Paris-Saclay](https://ens-paris-saclay.fr/),
 part of the 
   [Deducteam](https://deducteam.gitlabpages.inria.fr/)
 research group.
-I am supervised by
+I was supervised by
   [Frédéric Blanqui](https://blanqui.gitlabpages.inria.fr/)
 on the design and implementation of
 a tool for translating between
 [Lean](https://lean-lang.org/) and [Dedukti](https://deducteam.github.io/),
-and I expect to complete my doctoral studies in March 2026.
+and completed my doctoral studies in March 2026.
 
 I’m generally interested in the use of **proof assistants**
 for mathematical formalization and synthesis,
