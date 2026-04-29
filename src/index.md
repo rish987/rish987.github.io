@@ -5,12 +5,12 @@ shortbio: PhD student in computer science
 description-meta: PhD student in computer science
 og-url: https://rish987.github.io
 location: Bay Area, California
-email: rishikesh-hirendu.vaishnav@inria.fr
+email: rishhvaishnav@gmail.com
 picture: img/me.jpg
 picture-round: true
 side-by-side: true
 #pronouns: They/Them
-og-picture: https://rish987.github.io/img/me-new.jpg
+#og-picture: https://rish987.github.io/img/me-new.jpg
 orcid: 0009-0000-7702-6549
 #dblp: https://dblp.org/
 #scholar: https://scholar.google.com/
@@ -57,7 +57,7 @@ the areas of program synthesis and symbolic task planning for humans and autonom
 
 I am currently actively on the search for post-doctoral/full-time research positions!
 Please feel free to contact me at the email above for any related inquiries.
-Here's a link to [my CV](https://rish987.github.io/files/cv.pdf).
+<!-- Here's a link to [my CV](https://rish987.github.io/files/cv.pdf). -->
 <!-- the topics of **program synthesis**, **program specification synthesis**, and **subroutine discovery** -->
 <!-- within proof assistants. -->
 
