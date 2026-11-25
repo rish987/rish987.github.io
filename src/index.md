@@ -28,7 +28,9 @@ footer: >-
 ---
 
 Hello!
-I'm Rish, a former PhD student in computer science at the
+I'm Rish, I am currently a member of technical staff at [Axiom Math](https://axiommath.ai/),
+working on software verification tooling.
+Previously, I was a PhD student in computer science at the
   [Laboratoire Méthodes Formelles](https://lmf.cnrs.fr/) (LMF) 
 in
   [ENS Paris-Saclay](https://ens-paris-saclay.fr/),
@@ -42,21 +44,6 @@ a tool for translating between
 [Lean](https://lean-lang.org/) and [Dedukti](https://deducteam.github.io/),
 and completed my doctoral studies in March 2026.
 
-I’m generally interested in the use of **proof assistants**
-for mathematical formalization and synthesis,
-with my doctoral research focusing on
-the topic of **proof translation** for improved interoperability
-between proof assistants based on different foundations.
-
-My broader research interests are around the topic of using proof assistants such as Lean
-as platforms for the **synthesis of verified structural artifacts**
-starting from domain-specific, user-provided symbolic specifications, background theories and related proof automation,
-primarily through the design of proof-guided search spaces for synthesis.
-At the moment, I am particularly thinking about possible applications of synthesis techniques in
-the areas of program synthesis and symbolic task planning for humans and autonomous robots.
-
-I am currently actively on the search for post-doctoral/full-time research positions!
-Please feel free to contact me at the email above for any related inquiries.
 <!-- Here's a link to [my CV](https://rish987.github.io/files/cv.pdf). -->
 <!-- the topics of **program synthesis**, **program specification synthesis**, and **subroutine discovery** -->
 <!-- within proof assistants. -->
