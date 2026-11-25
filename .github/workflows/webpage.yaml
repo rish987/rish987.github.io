@@ -44,13 +44,25 @@ jobs:
 
       - name: Setup Pages
         if: github.ref_name == github.event.repository.default_branch
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v5
       - name: Upload artifact
         if: github.ref_name == github.event.repository.default_branch
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'website'
+
+  deploy:
+
+    if: github.ref_name == github.event.repository.default_branch
+    needs: build
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+
       - name: Deploy to GitHub Pages
-        if: github.ref_name == github.event.repository.default_branch
         id: deployment
         uses: actions/deploy-pages@v4
